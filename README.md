@@ -33,7 +33,7 @@ git init
 git add .
 git commit -m "Initial Aucerts website"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io.git
+git remote add origin https://github.com/common.nitin/common.nitin.github.io.git
 git push -u origin main
 ```
 
